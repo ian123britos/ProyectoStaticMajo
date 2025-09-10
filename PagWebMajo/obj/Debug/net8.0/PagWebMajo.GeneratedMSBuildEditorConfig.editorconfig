@@ -1,0 +1,107 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PagWebMajo
+build_property.RootNamespace = PagWebMajo
+build_property.ProjectDir = C:\Users\hlbc7\Desktop\MajoPagWeb\PagWebMajo\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\hlbc7\Desktop\MajoPagWeb\PagWebMajo
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleAlex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZUFsZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleAna.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZUFuYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleEzequiel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZUV6ZXF1aWVsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleFacundo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZUZhY3VuZG8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleLautaro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZUxhdXRhcm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleMateo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZU1hdGVvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleTiago.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZVRpYWdvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Personas/DetalleVale.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uYXNcRGV0YWxsZVZhbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Quince.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUXVpbmNlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Servicios/InicioPresentacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXEluaWNpb1ByZXNlbnRhY2lvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Servicios/NuestrosServicios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXE51ZXN0cm9zU2VydmljaW9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Servicios/VistaInicialBarra.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXFZpc3RhSW5pY2lhbEJhcnJhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Servicios/VistaInicialCabina.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXFZpc3RhSW5pY2lhbENhYmluYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Servicios/VistaInicialFotos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXFZpc3RhSW5pY2lhbEZvdG9zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Servicios/VistaInicialVideo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljaW9zXFZpc3RhSW5pY2lhbFZpZGVvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/hlbc7/Desktop/MajoPagWeb/PagWebMajo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-8dwpw5lrgr

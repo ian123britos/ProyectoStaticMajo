@@ -1,0 +1,457 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\controllers\\personascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detallevale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detallevale.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detalletiago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detalletiago.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detallemateo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detallemateo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detallelautaro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detallelautaro.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detallefacundo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detallefacundo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detalleezequiel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detalleezequiel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detallealex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detallealex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\personas\\detalleana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\personas\\detalleana.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\controllers\\servicioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\servicios\\iniciopresentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\servicios\\iniciopresentacion.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\servicios\\nuestrosservicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\servicios\\nuestrosservicios.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\servicios\\vistainicialvideo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\servicios\\vistainicialvideo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\servicios\\vistainicialfotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\servicios\\vistainicialfotos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\servicios\\vistainicialcabina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\servicios\\vistainicialcabina.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\servicios\\vistainicialbarra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\servicios\\vistainicialbarra.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\quince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\quince.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\pagwebmajo\\views\\quince.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68DD4D03-F9E6-4F77-A706-B82BCB06E51A}|PagWebMajo\\PagWebMajo.csproj|solutionrelative:pagwebmajo\\views\\quince.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\barra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\barra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\cabina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\cabina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\filmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\filmacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\foto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|c:\\users\\hlbc7\\source\\repos\\pagwebmajo\\dominio\\nosotros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A505C9D2-4B4D-4EEC-8E2C-C28C8E6D0D3E}|Dominio\\Dominio.csproj|solutionrelative:dominio\\nosotros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DetalleAna.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleAna.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleAna.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleAna.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleAna.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:29:02.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleVale.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleVale.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleVale.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleVale.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleVale.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:28:38.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleEzequiel.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleEzequiel.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleEzequiel.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleEzequiel.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleEzequiel.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:27:00.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleTiago.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleTiago.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleTiago.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleTiago.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleTiago.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:20:48.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetalleMateo.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleMateo.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleMateo.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleMateo.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleMateo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:20:10.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetalleLautaro.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleLautaro.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleLautaro.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleLautaro.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleLautaro.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:18:22.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetalleFacundo.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleFacundo.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleFacundo.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleFacundo.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleFacundo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:17:46.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DetalleAlex.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleAlex.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Personas\\DetalleAlex.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Personas\\DetalleAlex.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Personas\\DetalleAlex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T21:17:15.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonasController.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Controllers\\PersonasController.cs",
+              "RelativeDocumentMoniker": "PagWebMajo\\Controllers\\PersonasController.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Controllers\\PersonasController.cs",
+              "RelativeToolTip": "PagWebMajo\\Controllers\\PersonasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-11T21:14:16.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NuestrosServicios.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\NuestrosServicios.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Servicios\\NuestrosServicios.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\NuestrosServicios.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Servicios\\NuestrosServicios.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-11T20:40:00.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "VistaInicialVideo.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialVideo.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Servicios\\VistaInicialVideo.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialVideo.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Servicios\\VistaInicialVideo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T14:11:18.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VistaInicialCabina.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialCabina.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Servicios\\VistaInicialCabina.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialCabina.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Servicios\\VistaInicialCabina.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T14:10:55.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VistaInicialBarra.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialBarra.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Servicios\\VistaInicialBarra.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialBarra.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Servicios\\VistaInicialBarra.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T14:10:29.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Program.cs",
+              "RelativeDocumentMoniker": "PagWebMajo\\Program.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Program.cs",
+              "RelativeToolTip": "PagWebMajo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T13:36:41.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T13:34:56.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "InicioPresentacion.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\InicioPresentacion.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Servicios\\InicioPresentacion.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\InicioPresentacion.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Servicios\\InicioPresentacion.cshtml",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAAMcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T13:22:32.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VistaInicialFotos.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialFotos.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Servicios\\VistaInicialFotos.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Servicios\\VistaInicialFotos.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Servicios\\VistaInicialFotos.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T13:07:42.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Quince.cshtml",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Quince.cshtml",
+              "RelativeDocumentMoniker": "PagWebMajo\\Views\\Quince.cshtml",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Views\\Quince.cshtml",
+              "RelativeToolTip": "PagWebMajo\\Views\\Quince.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-09T13:01:32.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiciosController.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Controllers\\ServiciosController.cs",
+              "RelativeDocumentMoniker": "PagWebMajo\\Controllers\\ServiciosController.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Controllers\\ServiciosController.cs",
+              "RelativeToolTip": "PagWebMajo\\Controllers\\ServiciosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:54:30.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PagWebMajo\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\PagWebMajo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PagWebMajo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:53:36.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Sistema.cs",
+              "RelativeDocumentMoniker": "Dominio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Sistema.cs",
+              "RelativeToolTip": "Dominio\\Sistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:41:01.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Cabina.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Cabina.cs",
+              "RelativeDocumentMoniker": "Dominio\\Cabina.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Cabina.cs",
+              "RelativeToolTip": "Dominio\\Cabina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:38:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Barra.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Barra.cs",
+              "RelativeDocumentMoniker": "Dominio\\Barra.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Barra.cs",
+              "RelativeToolTip": "Dominio\\Barra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:38:05.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Filmacion.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Filmacion.cs",
+              "RelativeDocumentMoniker": "Dominio\\Filmacion.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Filmacion.cs",
+              "RelativeToolTip": "Dominio\\Filmacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:37:44.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Foto.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Foto.cs",
+              "RelativeDocumentMoniker": "Dominio\\Foto.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Foto.cs",
+              "RelativeToolTip": "Dominio\\Foto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:37:09.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Quince.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Quince.cs",
+              "RelativeDocumentMoniker": "Dominio\\Quince.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Quince.cs",
+              "RelativeToolTip": "Dominio\\Quince.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:28:50.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Nosotros.cs",
+              "DocumentMoniker": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Nosotros.cs",
+              "RelativeDocumentMoniker": "Dominio\\Nosotros.cs",
+              "ToolTip": "C:\\Users\\hlbc7\\source\\repos\\PagWebMajo\\Dominio\\Nosotros.cs",
+              "RelativeToolTip": "Dominio\\Nosotros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T12:23:36.581Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

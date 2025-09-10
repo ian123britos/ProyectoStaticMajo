@@ -1,0 +1,125 @@
+﻿@model List<string>
+
+<style>
+    body {
+        background: linear-gradient(135deg, #2c3e50, #4ca1af);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #fff;
+        margin: 0;
+        padding: 2rem;
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    h1, h2 {
+        margin-bottom: 0.5rem;
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.7);
+    }
+
+    .galeria {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 1rem;
+        max-width: 1100px;
+        width: 100%;
+        margin-top: 1rem;
+    }
+
+    .foto {
+        border-radius: 12px;
+        box-shadow: 0 6px 15px rgba(0,0,0,0.5);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        cursor: pointer;
+        max-width: 300px;
+        height: auto;
+    }
+
+        .foto:hover {
+            transform: scale(1.05);
+            box-shadow: 0 10px 25px rgba(255,255,255,0.6);
+        }
+
+    .Text {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #f0e6f6;
+        text-align: center;
+        text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+        margin-bottom: 0.3rem;
+        letter-spacing: 1.5px;
+    }
+
+    h1.Text {
+        font-size: 3rem;
+        font-weight: 700;
+    }
+
+    h2 {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #d1c4e9;
+        text-align: center;
+        font-weight: 500;
+        margin-top: 0;
+        margin-bottom: 2rem;
+        letter-spacing: 1px;
+        text-shadow: 1px 1px 3px rgba(0,0,0,0.4);
+    }
+
+    .botones {
+        max-width: 1200px;
+        width: 90vw;
+        margin: 2rem auto;
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+
+    .boton {
+        padding: 0.6rem 1.5rem;
+        background-color: #00796b;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-weight: 600;
+        cursor: pointer;
+        text-decoration: none;
+        text-align: center;
+        transition: background-color 0.3s ease;
+    }
+
+        .boton:hover {
+            background-color: #004d40;
+        }
+</style>
+<h1 style="text-align:center; margin-bottom: 1rem; color: #004d40; font-weight: 700;">
+    Nuestros Servicios
+</h1>
+<div class="botones">
+    <a href="@Url.Action("VistaInicialBarra", "Servicios")" class="boton">Barra</a>
+    <a href="@Url.Action("VistaInicialCabina", "Servicios")" class="boton">Cabina</a>
+    <a href="@Url.Action("VistaInicialVideo", "Servicios")" class="boton">Video</a>
+</div>
+
+<h1 class="Text">Galería de Quince años</h1>
+<h2>Los quince de pepito</h2>
+
+
+<div class="galeria">
+    @foreach (var archivo in Model)
+    {
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+        <img src="@archivo" alt="Foto quince" class="foto" />
+
+    }
+</div>

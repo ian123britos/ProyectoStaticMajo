@@ -1,0 +1,222 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Maria José Moreira Fotografía</title>
+    <style>
+        body {
+            /* Fondo nude suave en degradado */
+            background: linear-gradient(135deg, #D8B7A9, #BCA192);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            color: #cce7ff; /* celeste claro */
+            margin: 0;
+            padding: 2rem;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .wrapper {
+            max-width: 1200px;
+            width: 90vw;
+            display: flex;
+            flex-wrap: nowrap;
+            background: transparent;
+            box-shadow: none;
+            border-radius: 0;
+            overflow: visible;
+            padding: 0 2rem;
+            gap: 2rem;
+            justify-content: center;
+            flex-direction: row;
+        }
+        @@media (max-width: 700px) {
+            .wrapper {
+                flex-direction: column;
+                max-width: 90vw;
+                padding: 0 1rem;
+            }
+        }
+        .foto-grande {
+            flex: 1 1 50%;
+            max-width: 600px;
+            object-fit: contain;
+            width: 100%;
+            height: auto;
+            padding: 1rem;
+            box-sizing: border-box;
+        }
+        .descripcion {
+            max-width: 600px;
+            flex: 1 1 50%;
+            padding: 2rem;
+            box-sizing: border-box;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            color: #cce7ff; /* celeste claro */
+            background: transparent;
+        }
+        .descripcion h2 {
+            margin-top: 0;
+            margin-bottom: 1rem;
+            font-weight: 700;
+            color: #cce7ff; /* celeste claro */
+            font-size: 2.5rem;
+        }
+        .descripcion p {
+            max-width: 100%;
+            line-height: 1.6;
+            font-size: 1.2rem;
+            color: #cce7ff; /* celeste claro */
+        }
+        h3.quienes-somos {
+            max-width: 1200px;
+            width: 90vw;
+            margin: 3rem auto 1rem auto;
+            text-align: center;
+            color: #cce7ff; /* celeste claro */
+            font-weight: 700;
+            font-size: 2rem;
+        }
+        .quienes-container {
+            max-width: 1200px;
+            width: 90vw;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            justify-content: center;
+            margin-bottom: 4rem;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .persona {
+            flex: 0 0 22%; /* para que entren 4 por fila con gap */
+            max-width: 22%;
+            text-align: center;
+            color: #cce7ff; /* celeste claro */
+        }
+        @@media (max-width: 700px) {
+            .persona {
+                flex: 0 0 45%;
+                max-width: 45%;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+        .persona img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+        }
+        .persona img:hover {
+            transform: scale(1.05);
+        }
+        .persona-name {
+            margin-bottom: 0.5rem;
+            font-weight: 700;
+            font-size: 1.2rem;
+            color: #cce7ff; /* celeste claro */
+        }
+
+        /* Botón */
+        .btn-servicios {
+            display: block; /* ocupa toda la línea y permite centrar con margin auto */
+            margin: 2rem auto 4rem auto; /* vertical y auto horizontal para centrar */
+            padding: 0.75rem 2rem;
+            font-size: 1.2rem;
+            font-weight: 700;
+            color: #2c3e50; /* texto oscuro */
+            background-color: #cce7ff; /* celeste claro */
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            text-decoration: none;
+            text-align: center;
+            transition: background-color 0.3s ease, color 0.3s ease;
+        }
+
+        .btn-servicios:hover {
+            background-color: #009688;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="text-align:center; margin-bottom: 1rem; font-weight: 700; color: #cce7ff;">
+        Maria José Moreira fotografía
+    </h1>
+
+    <div class="wrapper">
+        <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Profesional Medio Plano" class="foto-grande" />
+        <div class="descripcion">
+            <h2>Bienvenidos a Nuestra Pagina web</h2>
+            <p>
+                Disfrutá de esta selección exclusiva de imágenes profesionales capturadas con atención al detalle y calidad inigualable.
+                Cada fotografía refleja momentos únicos, emociones y estilo.
+                Sumergite en la experiencia visual y descubre la esencia que transmiten estas imágenes pensadas para inspirarte.
+            </p>
+        </div>
+    </div>
+
+    <h3 class="quienes-somos">Quienes somos:</h3>
+
+    <div class="quienes-container">
+        <div class="persona">
+            <div class="persona-name">Alex</div>
+            <a href="@Url.Action("DetalleAlex", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Alex" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Facundo</div>
+            <a href="@Url.Action("DetalleFacundo", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Facundo" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Lautaro</div>
+            <a href="@Url.Action("DetalleLautaro", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Lautaro" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Mateo</div>
+            <a href="@Url.Action("DetalleMateo", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Mateo" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Tiago</div>
+            <a href="@Url.Action("DetalleTiago", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Tiago" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Ezequiel</div>
+            <a href="@Url.Action("DetalleEzequiel", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Ecequiel" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Vale</div>
+            <a href="@Url.Action("DetalleVale", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Vale" />
+            </a>
+        </div>
+        <div class="persona">
+            <div class="persona-name">Ana</div>
+            <a href="@Url.Action("DetalleAna", "Personas")">
+                <img src="/Servicios/Presentacion/Foto%20profesional%20-%20Medio%20plano.jpeg" alt="Foto Ana" />
+            </a>
+        </div>
+    </div>
+
+    <!-- Botón Nuestros Servicios -->
+    <a href="@Url.Action("NuestrosServicios", "Servicios")" class="btn-servicios">Nuestros Servicios</a>
+
+</body>
+</html>
